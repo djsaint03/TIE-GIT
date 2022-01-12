@@ -1,3 +1,3 @@
 #Git basic exercise
 
-print("Hello World")
+print("Hello World!")
